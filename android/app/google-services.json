@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118104043371",
+    "project_id": "myapp-uwu",
+    "storage_bucket": "myapp-uwu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118104043371:android:27875f48bbc36422dca62e",
+        "android_client_info": {
+          "package_name": "arpana.com.myApp.uwu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118104043371-nv3dp4o59ur4mo684gebbv3roa4k0srm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALpl0bTahiWOkR1laE66jWyKGwTzDIDQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118104043371-nv3dp4o59ur4mo684gebbv3roa4k0srm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
